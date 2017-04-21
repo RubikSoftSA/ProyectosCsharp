@@ -1,0 +1,6 @@
+c:\users\adria\onedrive\documentos\visual studio 2017\Projects\RFID\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\adria\onedrive\documentos\visual studio 2017\Projects\RFID\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\adria\onedrive\documentos\visual studio 2017\Projects\RFID\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\adria\onedrive\documentos\visual studio 2017\Projects\RFID\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+c:\users\adria\onedrive\documentos\visual studio 2017\Projects\RFID\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\adria\onedrive\documentos\visual studio 2017\Projects\RFID\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

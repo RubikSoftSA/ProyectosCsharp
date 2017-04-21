@@ -1,0 +1,17 @@
+[COMMUNICATION]
+Communication=0
+IP=192.168.2.115
+IPPort=49152
+PortName=COM1
+BaudRate=9600
+AddressList=
+TemporaryPath=
+[READER]
+ReaderID=0
+WriteCard=
+WriteCardA=
+WriteMode=0
+WriteType=0
+WritePosition=0
+WriteLength=3
+WriteAutoAdd=False

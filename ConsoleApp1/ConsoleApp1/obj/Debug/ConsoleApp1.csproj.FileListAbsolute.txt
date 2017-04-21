@@ -1,0 +1,11 @@
+c:\users\adria\onedrive\documentos\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\adria\onedrive\documentos\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\adria\onedrive\documentos\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\adria\onedrive\documentos\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\adria\onedrive\documentos\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+c:\users\adria\onedrive\documentos\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+c:\users\adria\onedrive\documentos\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ADBases.dll
+c:\users\adria\onedrive\documentos\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ADDevice.dll
+c:\users\adria\onedrive\documentos\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ADDeviceReader.dll
+c:\users\adria\onedrive\documentos\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ADDeviceReaderControls.dll
+c:\users\adria\onedrive\documentos\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ADSets.dll

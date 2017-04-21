@@ -1,0 +1,6 @@
+C:\Users\adria\OneDrive\Documentos\Visual Studio 2017\Projects\Presentacion1\Presentacion1\bin\Debug\Presentacion1.exe.config
+C:\Users\adria\OneDrive\Documentos\Visual Studio 2017\Projects\Presentacion1\Presentacion1\bin\Debug\Presentacion1.exe
+C:\Users\adria\OneDrive\Documentos\Visual Studio 2017\Projects\Presentacion1\Presentacion1\bin\Debug\Presentacion1.pdb
+C:\Users\adria\OneDrive\Documentos\Visual Studio 2017\Projects\Presentacion1\Presentacion1\obj\Debug\Presentacion1.csprojResolveAssemblyReference.cache
+C:\Users\adria\OneDrive\Documentos\Visual Studio 2017\Projects\Presentacion1\Presentacion1\obj\Debug\Presentacion1.exe
+C:\Users\adria\OneDrive\Documentos\Visual Studio 2017\Projects\Presentacion1\Presentacion1\obj\Debug\Presentacion1.pdb
